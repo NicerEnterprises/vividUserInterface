@@ -1,1 +1,1 @@
-see https://github.com/NicerEnterprises/NicerApp-WebOS :: .../NicerAppWebOS/logic.userInterface/v6.y.z for now :-)
+see https://github.com/NicerEnterprises/NicerApp-WebOS :: .../NicerAppWebOS/logic.vividUserInterface/v6.y.z for now :-)
